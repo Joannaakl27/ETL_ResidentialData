@@ -14,7 +14,7 @@ base_path = os.path.abspath(__file__ + "/../../")
 source_url = "https://assets.datacamp.com/production/repositories/5899/datasets/66691278303f789ca4acd3c6406baa5fc6adaf28/PPR-ALL.zip"
 
 # Source path where we want to save the .zip file downloaded from the website
-source_path = f"{base_path}/data/source/downloaded_at=2021-02-01/PPR-2021.zip"
+source_path = f"{base_path}/data/source/downloaded_at=2021-02-01/PPR-ALL.zip"
 
 # Raw path where we want to extract the new .csv data
 raw_path = f"{base_path}/data/raw/downloaded_at=2021-02-01/ppr-all.csv"
